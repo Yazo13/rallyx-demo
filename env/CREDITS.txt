@@ -1,0 +1,13 @@
+Skies and surface textures from Poly Haven (https://polyhaven.com), CC0 (public domain).
+No attribution required; listed here for reference.
+
+Skies (HDRI, 1k):
+  kiara_1_dawn                          https://polyhaven.com/a/kiara_1_dawn
+  kloofendal_48d_partly_cloudy_puresky  https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky
+  belfast_sunset_puresky                https://polyhaven.com/a/belfast_sunset_puresky
+  rogland_clear_night                   https://polyhaven.com/a/rogland_clear_night
+
+Textures (1k: colour, normal, roughness):
+  asphalt_track                         https://polyhaven.com/a/asphalt_track
+  aerial_grass_rock                     https://polyhaven.com/a/aerial_grass_rock
+  concrete_wall_004                     https://polyhaven.com/a/concrete_wall_004
