@@ -1,8 +1,7 @@
 Rally X 3D model credits
 
-car.glb (apps/client/src/assets/car.glb) — "Fast Car Speed Race Vehicle Toon" by ergoninane
-  Source:  https://pixabay.com/3d-models/fast-car-speed-race-vehicle-toon-72/
-  License: Pixabay Content License (https://pixabay.com/service/license-summary/)
-           Free for commercial use, attribution not required.
-           Not allowed: selling or distributing the model on its own, unchanged.
-  Used as: in-game car, recoloured per lane at runtime.
+car.glb (apps/client/src/assets/car.glb + car-*.webp) — "Sunset Predator", generated with Meshy AI
+  Source:  made for Rally X with Meshy (https://www.meshy.ai), image-to-3D
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — commercial use allowed with attribution.
+  Used as: in-game car; decimated, wheels cut out, repainted per lane with a livery at runtime
+           (scripts/blender/car.py, scripts/build-model.mjs).
