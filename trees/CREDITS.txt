@@ -1,0 +1,2 @@
+Tree sprites (trees.webp): rendered in Blender from Poly Haven models (CC0) — fir_tree_01,
+tree_small_02, jacaranda_tree (https://polyhaven.com). Packed by scripts/build-trees.mjs.
