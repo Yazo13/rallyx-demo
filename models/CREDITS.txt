@@ -1,7 +1,7 @@
 Rally X 3D model credits
 
-car.glb (apps/client/src/assets/car.glb + car-*.webp) — "Fictional supercar - V12 Goblin" by ollitei
+car.glb (apps/client/src/assets/car.glb + car-*.webp): "Fictional supercar - V12 Goblin" by ollitei
   Source:  https://sketchfab.com/3d-models/0a20e49ad5774d778567cb5c3f345786
-  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — commercial use allowed with attribution.
+  License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), commercial use allowed with attribution.
   Used as: in-game car; flattened and wheels prepared in Blender, textures repacked
            (scripts/build-goblin.mjs), repainted per lane and lit at runtime.

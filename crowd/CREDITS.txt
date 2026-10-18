@@ -1,3 +1,3 @@
 Crowd sprites (fans.webp): rendered in Blender from "Background People for Blender promo | Animated"
-by jungle_jim — https://sketchfab.com/3d-models/ee74d352e49347658dd8675ffebf13eb
+by jungle_jim: https://sketchfab.com/3d-models/ee74d352e49347658dd8675ffebf13eb
 License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Packed by scripts/build-crowd.mjs.
