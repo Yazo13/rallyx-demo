@@ -13,5 +13,6 @@ Textures (1k: colour, normal, roughness):
   concrete_wall_004                     https://polyhaven.com/a/concrete_wall_004
 
 Skies (2026-10-17): Poly Haven pure-sky HDRIs, CC0: kloppenheim_06_puresky (dawn),
-kloofendal_48d_partly_cloudy_puresky (day), belfast_sunset_puresky (sunset), qwantani_night_puresky (night).
+kloofendal_48d_partly_cloudy_puresky (day), qwantani_sunset_puresky (sunset, from 2026-10-22;
+belfast_sunset_puresky before), qwantani_night_puresky (night).
 Turned and cropped by scripts/build-skies.mjs into sky-<look>.hdr / sky-<look>.webp.
