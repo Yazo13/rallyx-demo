@@ -1,7 +1,15 @@
 Rally X sound credits (all CC0 / public domain; attribution not required but appreciated)
 
-BigSoundBank.com, Joseph Sardin: #0600 Acceleration Aston Martin, #0534 AC Cobra Engine,
-  #0291 Car Engine 2, #0556 Cars: Passages, #0500 Tire squeal, #1808 Explosion 2,
-  #1341 Gasoline Fire 2, #1776 Fall 2 sheet steel bars, #0237 Shouts and applauses of teens 2,
-  #0021 Applause: 600 people, #1289 Rain on concrete, #0740 Rain and Thunder 2
-Kenney.nl: Casino Audio, Interface Sounds, Music Jingles
+Race engines, start and pass-by: "Superleague Formula V12 Brands Hatch 2010" by Edvvc,
+  https://commons.wikimedia.org/wiki/File:Superleague_Formula_V12_Brands_Hatch_2010.ogg
+  CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/). Cut, looped, pitched and
+  normalised for the game; these derived sounds (launch, rev-*, passby, engine-idle,
+  engine-high) are shared under the same licence.
+Grandstand crowd: "F1 Race Crowd Applause Air Horns" (British Grand Prix 2012) by WebbFilmsUK,
+  https://freesound.org/people/WebbFilmsUK/sounds/200809/ , CC BY 4.0
+  (https://creativecommons.org/licenses/by/4.0/). Cut and normalised (cheer, applause, crowd).
+
+CC0 / public domain:
+BigSoundBank.com, Joseph Sardin: #0500 Tire squeal, #1808 Explosion 2, #1023 Explosion far away 1,
+  #1341 Gasoline Fire 2, #1776 Fall 2 sheet steel bars
+Kenney.nl: Casino Audio, Interface Sounds
