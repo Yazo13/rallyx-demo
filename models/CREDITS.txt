@@ -4,3 +4,7 @@ car.glb (apps/client/src/assets/car.glb + car-*.webp): "Sunset Velocity", genera
   for Rally X. Source: assets-src/models/sunset/source.glb.
   Used as: in-game car; lightened and wheels cut out in Blender (scripts/blender/car.py), textures
            repacked (scripts/build-car.mjs), repainted per lane (matte) and lit at runtime.
+
+robot.glb (apps/client/src/assets/robot.glb): "Iron Vanguard", generated with Meshy AI (meshy.ai) for Rally X.
+  Source: assets-src/models/robot/source.glb.
+  Used as: the robots of bonus N4; lightened and textures reduced in Blender (scripts/blender/robot.py).
