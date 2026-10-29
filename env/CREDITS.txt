@@ -6,6 +6,5 @@ Textures (1k: colour, normal, roughness):
   aerial_grass_rock                     https://polyhaven.com/a/aerial_grass_rock
   concrete_wall_004                     https://polyhaven.com/a/concrete_wall_004
 
-Skies: Poly Haven pure-sky HDRIs, CC0: kloofendal_48d_partly_cloudy_puresky (day),
-qwantani_night_puresky (night).
-Turned and cropped by scripts/build-skies.mjs into sky-<look>.hdr / sky-<look>.webp.
+Sky: Poly Haven pure-sky HDRI, CC0: qwantani_night_puresky.
+Turned and cropped by scripts/build-skies.mjs into sky-night.hdr / sky-night.webp.
