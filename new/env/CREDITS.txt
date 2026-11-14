@@ -1,0 +1,10 @@
+Skies and surface textures from Poly Haven (https://polyhaven.com), CC0 (public domain).
+No attribution required; listed here for reference.
+
+Textures (1k: colour, normal, roughness):
+  asphalt_track                         https://polyhaven.com/a/asphalt_track
+  aerial_grass_rock                     https://polyhaven.com/a/aerial_grass_rock
+  concrete_wall_004                     https://polyhaven.com/a/concrete_wall_004
+
+Sky: Poly Haven pure-sky HDRI, CC0: qwantani_night_puresky.
+Turned and cropped by scripts/build-skies.mjs into sky-night.hdr / sky-night.webp.
